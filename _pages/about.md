@@ -20,77 +20,86 @@ I am open to research discussions and collaborations. You can reach me at [30230
 
 # 🔥 News
 
-- *2026.05*: &nbsp;**VC-OPD**, a project on visual counterfactual on-policy distillation for grounded vision-language reasoning, was submitted to NeurIPS as first author.
-- *2026.03*: &nbsp;**SEERBench**, a spatial Ego-Exo reasoning benchmark for multimodal large language models, was accepted to ECCV. I am co-first author.
-- *2025.11*: &nbsp;**TS-DP**, a reinforcement speculative decoding method for temporal-adaptive diffusion policy acceleration, received a minor revision decision at IEEE Transactions on Multimedia.
-- *2025.09*: &nbsp;**Hy-CycleAlign** was accepted by IEEE Transactions on Image Processing (CCF A). I am second author.
-- *2025.06*: &nbsp;Led an Intelligent Traditional Chinese Medicine Diagnosis System project selected for the national undergraduate innovation training program.
-- *2025.02*: &nbsp;Received an Honorable Mention in the Mathematical Contest in Modeling.
+- *2026.06*: &nbsp;**SEERBench: A Spatial Ego-Exo Reasoning Benchmark for MLLMs** was accepted to ECCV 2026.
+- *2026.05*: &nbsp;**TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration** was accepted to IEEE Transactions on Multimedia (TMM).
+- *2025.09*: &nbsp;**Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion** was accepted to IEEE Transactions on Image Processing (TIP).
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
-Selected publications and ongoing research. * indicates equal contribution.
+Selected publications.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>ECCV 2026</div><img src='images/seerbench-preview.png' alt='SEERBench paper preview' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/dopi-figure.png' alt='DoPI method figure' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
-**SEERBench: A Spatial Ego-Exo Reasoning Benchmark for MLLMs**
+**DoPI: Doctor-like Proactive Interrogation LLM for Traditional Chinese Medicine**
 
-**Jiahe Feng**<sup>*</sup>, et al.
+Zewen Sun, Ruoxiang Huang, Jiahe Feng, Rundong Kong, Yuqian Wang, Hengyu Liu, Ziqi Gong, Yuyuan Qin, Yingxue Wang, and Yu Wang.
 
-ECCV 2026. Co-first author.
-
-A benchmark for evaluating spatial reasoning across egocentric and exocentric viewpoints in multimodal large language models.
+A proactive multi-turn interrogation framework for Traditional Chinese Medicine diagnosis.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>TMM</div><img src='images/ts-dp-preview.png' alt='TS-DP paper preview' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>TIP</div><img src='images/hy-cyclealign-figure.png' alt='Hyperbolic Cycle Alignment method figure' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
-**TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration**
+**Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion**
 
-et al., **Jiahe Feng**
+Timing Li, Bing Cao, Jiahe Feng, Haifang Cao, Qinghua Hu, and Pengfei Zhu.
 
-IEEE Transactions on Multimedia. Under review after minor revision.
-
-Temporal-adaptive speculative decoding for efficient action generation in vision-language-action models.
-</div></div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>TIP</div><img src='images/hy-cyclealign-preview.png' alt='Hy-CycleAlign paper preview' width='100%'></div></div>
-<div class='paper-box-text' markdown='1'>
-
-**Hy-CycleAlign: Infrared-Visible Image Alignment with Cyclic Consistency in Hyperbolic Space**
-
-et al., **Jiahe Feng**
-
-IEEE Transactions on Image Processing (CCF A). Second author.
+IEEE Transactions on Image Processing.
 
 A hyperbolic representation learning framework for robust infrared-visible image alignment and fusion.
 </div></div>
 
-- **VC-OPD: Visual Counterfactual On-Policy Distillation for Grounded Vision-Language Reasoning.** NeurIPS submission, first author.
-- **Discrete Double-Bracket Flows for Isotropic-Noise Invariant Eigendecomposition.** NeurIPS submission, second author.
-- **DoPI: Doctor-like Proactive Interrogation LLM for Traditional Chinese Medicine.** CCF-C conference submission, first author.
-- **Multimodal Knowledge-Coordinated Intelligent Tongue-Diagnosis Device.** Patent application, third author.
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>TMM</div><img src='images/ts-dp-figure.png' alt='TS-DP method figure' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+**TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration**
+
+Ye Li, Jiahe Feng, Yuan Meng, Kangye Ji, Chen Tang, Xinwan Wen, Shutao Xia, Zhi Wang, and Wenwu Zhu.
+
+IEEE Transactions on Multimedia.
+
+Temporal-adaptive speculative decoding for efficient action generation in vision-language-action models.
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/double-bracket-figure.png' alt='Double-bracket flow illustration' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+**Discrete Double-Bracket Flows for Isotropic-Noise Invariant Eigendecomposition**
+
+Zhiming Li and Jiahe Feng.
+
+Matrix-free eigendecomposition with discrete dynamics invariant to isotropic noise.
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>ECCV 2026</div><img src='images/seerbench-figure.png' alt='SEERBench overview figure' width='100%'></div></div>
+<div class='paper-box-text' markdown='1'>
+
+**SEERBench: A Spatial Ego-Exo Reasoning Benchmark for MLLMs**
+
+Fengyuan Lu\*, Jiahe Feng\*, Zhengyong Zhou\*, Shaofeng Zhang, Wenbin Li, Qi Fan†, and Yang Gao.
+
+ECCV 2026.
+
+A benchmark for evaluating spatial reasoning across egocentric and exocentric viewpoints in multimodal large language models.
+</div></div>
 
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
 
 - *2023.09 - present*, **Tianjin University**, B.S. in Artificial Intelligence.
-  - Major ranking: **21 / 126 (Top 15%)**.
-  - Relevant coursework: Programming, Data Structures, Operating Systems, Computer Architecture, and Deep Learning.
-  - CET-6: **464**.
 
 <span class='anchor' id='experiences'></span>
 
 # 💼 Experiences
 
-- *2026.01 - 2026.05*, **Visual Language Reasoning / On-Policy Distillation**. Designed visual counterfactual training signals and on-policy distillation procedures for grounded vision-language reasoning.
-- *2025.11 - 2026.03*, **Ego-Exo Spatial Understanding Benchmark**. Contributed to task definition, data construction, evaluation, and writing for a multimodal spatial reasoning benchmark.
-- *2025.07 - 2025.11*, **Vision-Language-Action Policy Acceleration**. Explored temporal-adaptive speculative decoding, token pruning, and PPO-based scheduling for diffusion policy acceleration.
-- *2024.09 - 2025.09*, **Tianjin University Machine Learning Lab**. Built a training framework for infrared-visible image alignment and fusion with cyclic consistency and hyperbolic representation learning.
+- *2026.01 - 2026.05*, **Tianjin University**.
+- *2025.11 - 2026.03*, **Nanjing University**.
+- *2025.07 - 2025.11*, **Tsinghua Shenzhen International Graduate School**.
+- *2024.09 - 2025.09*, **Tianjin University**.
 
 <span class='anchor' id='honors'></span>
 
