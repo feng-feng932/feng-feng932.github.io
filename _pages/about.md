@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student in **Artificial Intelligence at [Tianjin University](https://www.tju.edu.cn/)** (2023.09 - present). My research interests include **multimodal large language model reasoning** and **embodied intelligence**.
+I am an undergraduate student in **Artificial Intelligence at [Tianjin University](https://www.tju.edu.cn/)** (2023.09 - present). My research interests include **multimodal large language model** and **embodied intelligence**.
 
-My research focuses on multimodal large language model reasoning and embodied intelligence, aiming to improve embodied agents' perception, reasoning, decision-making, and action capabilities.
+My research focuses on multimodal large language model and embodied intelligence, aiming to improve embodied agents' perception, reasoning, decision-making, and action capabilities.
 
 I am open to research discussions and collaborations.
 
@@ -20,9 +20,9 @@ I am open to research discussions and collaborations.
 
 # 🔥 News
 
+- *2026.09*: &nbsp;**TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration** was accepted to IEEE Transactions on Multimedia (TMM).
+- *2025.07*: &nbsp;**Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion** was accepted to IEEE Transactions on Image Processing (TIP).
 - *2026.06*: &nbsp;**SEERBench: A Spatial Ego-Exo Reasoning Benchmark for MLLMs** was accepted to ECCV 2026.
-- *2026.05*: &nbsp;**TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration** was accepted to IEEE Transactions on Multimedia (TMM).
-- *2025.09*: &nbsp;**Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion** was accepted to IEEE Transactions on Image Processing (TIP).
 
 <span class='anchor' id='publications'></span>
 
@@ -39,10 +39,9 @@ Fengyuan Lu\*, **Jiahe Feng**\*, Zhengyong Zhou\*, Shaofeng Zhang, Wenbin Li, Qi
 
 ECCV 2026.
 
-A benchmark for evaluating spatial reasoning across egocentric and exocentric viewpoints in multimodal large language models.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>TMM</div><img src='images/ts-dp-figure.png' alt='TS-DP method figure' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>TMM 2026</div><img src='images/ts-dp-figure.png' alt='TS-DP method figure' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 **TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration**
@@ -51,10 +50,9 @@ Ye Li, **Jiahe Feng**, Yuan Meng, Kangye Ji, Chen Tang, Xinwan Wen, Shutao Xia, 
 
 IEEE Transactions on Multimedia.
 
-Temporal-adaptive speculative decoding for efficient action generation in vision-language-action models.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>TIP</div><img src='images/hy-cyclealign-figure.png' alt='Hyperbolic Cycle Alignment method figure' width='100%'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class='badge'>TIP 2026</div><img src='images/hy-cyclealign-figure.png' alt='Hyperbolic Cycle Alignment method figure' width='100%'></div></div>
 <div class='paper-box-text' markdown='1'>
 
 **Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion**
@@ -63,7 +61,6 @@ Timing Li, Bing Cao, **Jiahe Feng**, Haifang Cao, Qinghua Hu, and Pengfei Zhu.
 
 IEEE Transactions on Image Processing.
 
-A hyperbolic representation learning framework for robust infrared-visible image alignment and fusion.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/double-bracket-figure.png' alt='Double-bracket flow illustration' width='100%'></div></div>
@@ -73,7 +70,6 @@ A hyperbolic representation learning framework for robust infrared-visible image
 
 Zhiming Li and **Jiahe Feng**.
 
-Matrix-free eigendecomposition with discrete dynamics invariant to isotropic noise.
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/dopi-figure.png' alt='DoPI method figure' width='100%'></div></div>
@@ -83,7 +79,6 @@ Matrix-free eigendecomposition with discrete dynamics invariant to isotropic noi
 
 Zewen Sun, Ruoxiang Huang, **Jiahe Feng**, Rundong Kong, Yuqian Wang, Hengyu Liu, Ziqi Gong, Yuyuan Qin, Yingxue Wang, and Yu Wang.
 
-A proactive multi-turn interrogation framework for Traditional Chinese Medicine diagnosis.
 </div></div>
 
 <span class='anchor' id='educations'></span>
@@ -96,10 +91,7 @@ A proactive multi-turn interrogation framework for Traditional Chinese Medicine 
 
 # 💼 Experiences
 
-- *2026.01 - 2026.05*, **Tianjin University**.
-- *2025.11 - 2026.03*, **Nanjing University**.
-- *2025.07 - 2025.11*, **Tsinghua Shenzhen International Graduate School**.
-- *2024.09 - 2025.09*, **Tianjin University**.
+- *2023.09 - persent*, **Tianjin University**.
 
 <span class='anchor' id='honors'></span>
 
