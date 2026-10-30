@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+last_modified_at: 2026-10-30
 author_profile: true
 redirect_from:
   - /about/

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://feng-feng932.github.io/sitemap.xml

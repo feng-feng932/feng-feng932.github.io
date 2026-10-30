@@ -1,0 +1,45 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "{{ site.url }}/#person",
+      "name": "Jiahe Feng",
+      "alternateName": "冯嘉赫",
+      "url": "{{ site.url }}/",
+      "description": {{ site.description | jsonify }},
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "Tianjin University",
+        "url": "https://www.tju.edu.cn/"
+      },
+      "worksFor": {
+        "@type": "Organization",
+        "name": "ShengShu Technology"
+      },
+      "knowsAbout": ["Multimodal large language models", "Embodied intelligence"],
+      "sameAs": [
+        "https://github.com/{{ site.author.github }}",
+        {{ site.author.googlescholar | jsonify }}
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#website",
+      "url": "{{ site.url }}/",
+      "name": "Jiahe Feng",
+      "alternateName": "Jiahe Feng (冯嘉赫) | Academic Homepage"
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "{{ site.url }}/#profile",
+      "url": "{{ site.url }}/",
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "mainEntity": { "@id": "{{ site.url }}/#person" },
+      "isPartOf": { "@id": "{{ site.url }}/#website" }
+    }
+  ]
+}
+</script>

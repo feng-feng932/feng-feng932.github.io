@@ -6,8 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiahe Feng | Academic Homepage"
-description              : ""
+title                    : "Jiahe Feng (冯嘉赫) | Academic Homepage"
+description              : "Jiahe Feng (冯嘉赫) is an Artificial Intelligence undergraduate at Tianjin University and a research intern at ShengShu Technology. Research interests: multimodal large language models and embodied intelligence."
+url                      : "https://feng-feng932.github.io"
+baseurl                  : ""
 repository               : "feng-feng932/feng-feng932.github.io"
 google_scholar_stats_use_cdn : true
 
