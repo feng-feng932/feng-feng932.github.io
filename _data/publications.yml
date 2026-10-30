@@ -1,0 +1,31 @@
+- title: "VC-OPD: Visual Counterfactual On-Policy Distillation for Grounded Vision-Language Reasoning"
+  authors: "**Jiahe Feng**."
+  venue: "NeurIPS 2026"
+  status: "published"
+
+- title: "SEERBench: A Spatial Ego-Exo Reasoning Benchmark for MLLMs"
+  authors: 'Fengyuan Lu\*, **Jiahe Feng**\*, Zhengyong Zhou\*, Shaofeng Zhang, Wenbin Li, Qi Fan†, and Yang Gao.'
+  venue: "ECCV 2026"
+  status: "published"
+
+- title: "TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration"
+  authors: "Ye Li, **Jiahe Feng**, Yuan Meng, Kangye Ji, Chen Tang, Xinwan Wen, Shutao Xia, Zhi Wang, and Wenwu Zhu."
+  venue: "IEEE TMM"
+  venue_full: "IEEE Transactions on Multimedia"
+  status: "published"
+
+- title: "Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion"
+  authors: "Timing Li, Bing Cao, **Jiahe Feng**, Haifang Cao, Qinghua Hu, and Pengfei Zhu."
+  venue: "IEEE TIP"
+  venue_full: "IEEE Transactions on Image Processing"
+  status: "published"
+
+- title: "Discrete Double-Bracket Flows for Isotropic-Noise Invariant Eigendecomposition"
+  authors: "Zhiming Li and **Jiahe Feng**."
+  venue: "arXiv"
+  status: "preprint"
+
+- title: "DoPI: Doctor-like Proactive Interrogation LLM for Traditional Chinese Medicine"
+  authors: "Zewen Sun, Ruoxiang Huang, **Jiahe Feng**, Rundong Kong, Yuqian Wang, Hengyu Liu, Ziqi Gong, Yuyuan Qin, Yingxue Wang, and Yu Wang."
+  venue: "arXiv"
+  status: "preprint"

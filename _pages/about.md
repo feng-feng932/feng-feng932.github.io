@@ -9,90 +9,51 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<section class="hero" id="about-me" aria-labelledby="profile-heading">
+  <p class="eyebrow">TIANJIN UNIVERSITY</p>
+  <h1 id="profile-heading">Jiahe Feng <span class="name-cn" lang="zh">冯嘉赫</span></h1>
+  <p class="hero-intro">I am an undergraduate student in <strong>Artificial Intelligence</strong> at <a href="https://www.tju.edu.cn/" target="_blank" rel="noopener noreferrer">Tianjin University</a> (2023.09 – present), and a research intern at <strong>ShengShu Technology</strong>.</p>
+  <p class="hero-interests">My research interests include multimodal large language models and embodied intelligence.</p>
+  <div class="research-tags" aria-label="Research interests">
+    <span>Multimodal LLMs</span><span>Embodied Intelligence</span>
+  </div>
+  <p class="collaboration-note">I am open to research discussions and collaborations.</p>
+</section>
 
-I am an undergraduate student in **Artificial Intelligence at [Tianjin University](https://www.tju.edu.cn/)** (2023.09 - present). My research interests include **multimodal large language model** and **embodied intelligence**.
+<section class="content-section" id="news" aria-labelledby="news-heading">
+  <div class="section-heading"><h2 id="news-heading">News</h2><span class="section-note">Recent updates</span></div>
+  <ul class="news-list">
+    <li><time datetime="2026-10">2026.10</time><span><strong>VC-OPD</strong> was accepted to <strong>NeurIPS 2026</strong>.</span></li>
+    <li><time datetime="2026-09">2026.09</time><span><strong>TS-DP</strong> was accepted to <strong>IEEE Transactions on Multimedia</strong>.</span></li>
+    <li><time datetime="2026-06">2026.06</time><span><strong>SEERBench</strong> was accepted to <strong>ECCV 2026</strong>.</span></li>
+    <li><time datetime="2025-07">2025.07</time><span><strong>Hyperbolic Cycle Alignment</strong> was accepted to <strong>IEEE Transactions on Image Processing</strong>.</span></li>
+  </ul>
+</section>
 
-I am open to research discussions and collaborations.
+<section class="content-section" id="publications" aria-labelledby="publications-heading">
+  <div class="section-heading"><h2 id="publications-heading">Publications</h2></div>
+  {% include publications.html %}
+</section>
 
-<span class='anchor' id='news'></span>
-
-# 🔥 News
-
-- *2026.10*: &nbsp;**[VC-OPD: Visual Counterfactual On-Policy Distillation for Grounded Vision-Language Reasoning](https://arxiv.org/abs/2610.14939)** was accepted to NeurIPS 2026.
-- *2026.09*: &nbsp;**[TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration](https://arxiv.org/abs/2512.15773)** was accepted to IEEE Transactions on Multimedia (TMM).
-- *2026.06*: &nbsp;**SEERBench: A Spatial Ego-Exo Reasoning Benchmark for MLLMs** was accepted to ECCV 2026.
-- *2025.07*: &nbsp;**[Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion](https://arxiv.org/abs/2507.23508)** was accepted to IEEE Transactions on Image Processing (TIP).
-
-<span class='anchor' id='publications'></span>
-
-# 📝 Publications
-
-<div class='paper-box' markdown='1'>
-
-**VC-OPD: Visual Counterfactual On-Policy Distillation for Grounded Vision-Language Reasoning**
-
-**Jiahe Feng**.
-
-NeurIPS 2026.
-
+<div class="background-grid">
+  <section class="background-section" id="educations" aria-labelledby="education-heading">
+    <div class="section-heading"><h2 id="education-heading">Education</h2></div>
+    <div class="timeline-entry">
+      <span class="entry-date">2023.09 – present</span>
+      <h3>Tianjin University</h3>
+      <p>B.S. in Artificial Intelligence</p>
+    </div>
+  </section>
+  <section class="background-section" id="experiences" aria-labelledby="experience-heading">
+    <div class="section-heading"><h2 id="experience-heading">Experience</h2></div>
+    <div class="timeline-entry">
+      <span class="entry-date">2026.10 – present</span>
+      <h3>ShengShu Technology</h3>
+      <p>Research Intern</p>
+    </div>
+    <div class="timeline-entry">
+      <span class="entry-date">2023.09 – present</span>
+      <h3>Tianjin University</h3>
+    </div>
+  </section>
 </div>
-
-<div class='paper-box' markdown='1'>
-
-**SEERBench: A Spatial Ego-Exo Reasoning Benchmark for MLLMs**
-
-Fengyuan Lu\*, **Jiahe Feng**\*, Zhengyong Zhou\*, Shaofeng Zhang, Wenbin Li, Qi Fan†, and Yang Gao.
-
-ECCV 2026.
-
-</div>
-
-<div class='paper-box' markdown='1'>
-
-**TS-DP: Reinforcement Speculative Decoding for Temporal Adaptive Diffusion Policy Acceleration**
-
-Ye Li, **Jiahe Feng**, Yuan Meng, Kangye Ji, Chen Tang, Xinwan Wen, Shutao Xia, Zhi Wang, and Wenwu Zhu.
-
-IEEE Transactions on Multimedia.
-
-</div>
-
-<div class='paper-box' markdown='1'>
-
-**Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion**
-
-Timing Li, Bing Cao, **Jiahe Feng**, Haifang Cao, Qinghua Hu, and Pengfei Zhu.
-
-IEEE Transactions on Image Processing.
-
-</div>
-
-<div class='paper-box' markdown='1'>
-
-**Discrete Double-Bracket Flows for Isotropic-Noise Invariant Eigendecomposition**
-
-Zhiming Li and **Jiahe Feng**.
-
-</div>
-
-<div class='paper-box' markdown='1'>
-
-**DoPI: Doctor-like Proactive Interrogation LLM for Traditional Chinese Medicine**
-
-Zewen Sun, Ruoxiang Huang, **Jiahe Feng**, Rundong Kong, Yuqian Wang, Hengyu Liu, Ziqi Gong, Yuyuan Qin, Yingxue Wang, and Yu Wang.
-
-</div>
-
-<span class='anchor' id='educations'></span>
-
-# 📖 Educations
-
-- *2023.09 - present*, **Tianjin University**, B.S. in Artificial Intelligence.
-
-<span class='anchor' id='experiences'></span>
-
-# 💼 Experiences
-
-- *2026.10 - present*, **ShengShu Technology**, Research Intern.
-- *2023.09 - present*, **Tianjin University**.

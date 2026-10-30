@@ -1,0 +1,11 @@
+<div class="publication-list">
+  {% for paper in site.data.publications %}
+  <article class="paper-box">
+    <div class="paper-heading">
+      <h3 class="paper-title">{{ paper.title | escape }}</h3>
+      <span class="paper-venue paper-venue--{{ paper.status }}"{% if paper.venue_full %} title="{{ paper.venue_full | escape }}" aria-label="{{ paper.venue_full | escape }}"{% endif %}>{{ paper.venue | escape }}</span>
+    </div>
+    <div class="paper-authors">{{ paper.authors | markdownify }}</div>
+  </article>
+  {% endfor %}
+</div>
