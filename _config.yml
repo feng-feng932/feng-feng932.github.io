@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "Jiahe Feng | Academic Homepage"
+description              : ""
 repository               : "feng-feng932/feng-feng932.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiahe Feng (冯嘉赫)"
   avatar           : "images/jf-avatar.svg"
-  bio              : "B.S. student in Artificial Intelligence, Tianjin University"
+  bio              : ""
   location         : "Tianjin, China"
   employer         : "Tianjin University"
   pubmed           : 
