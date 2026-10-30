@@ -42,12 +42,11 @@
 
 .paper-box {
     width: 100%;
-    border-bottom: 1px solid $border-color;
-    padding: 1.25em 0;
+    padding: 0.4em 0;
     overflow-wrap: break-word;
 
     p {
-        margin-bottom: 0.5em;
+        margin-bottom: 0.2em;
 
         &:last-child {
             margin-bottom: 0;
