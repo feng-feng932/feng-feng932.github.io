@@ -13,7 +13,7 @@
         <div class="page__content">{{ content }}</div>
       </main>
     </div>
-    <footer class="site-footer"><span>© {{ site.time | date: "%Y" }} Jiahe Feng</span><span>Last updated {{ page.last_modified_at | date: "%B %Y" }}</span></footer>
+    <footer class="site-footer">© {{ site.time | date: "%Y" }} Jiahe Feng</footer>
     <script src="{{ '/assets/js/homepage.js' | relative_url }}" defer></script>
     {% if site.google_analytics_id %}{% include analytics.html %}{% endif %}
   </body>

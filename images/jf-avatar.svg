@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">Jiahe Feng initials</title>
-  <desc id="desc">A soft blue circular monogram with the initials JF.</desc>
-  <rect width="512" height="512" rx="256" fill="#edf3fa"/>
-  <circle cx="256" cy="256" r="224" fill="none" stroke="#dbe6f3" stroke-width="2"/>
-  <text x="250" y="303" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="172" fill="#2d5b8a">JF</text>
+  <desc id="desc">A pale teal circular monogram with the initials JF.</desc>
+  <rect width="512" height="512" rx="256" fill="#edf5f5"/>
+  <circle cx="256" cy="256" r="231" fill="none" stroke="#d5e7e6" stroke-width="2"/>
+  <text x="250" y="303" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="172" fill="#286f70">JF</text>
 </svg>
